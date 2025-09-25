@@ -134,7 +134,7 @@ export function getFeriados(año = new Date().getFullYear(), opciones = {}) {
   FERIADOS_FIJOS.forEach(feriado => {
     if (!incluirOpcionales && !feriado.obligatorio) return;
     
-    let fecha = new Date(año, feriado.mes - 1, feriado.dia);
+    const fecha = new Date(año, feriado.mes - 1, feriado.dia);
     let fechaObservada = fecha;
     
     // Aplicar regla de lunes más cercano para feriados específicos
