@@ -1,6 +1,6 @@
 {
   "name": "mx-feriados",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "type": "module",
   "description": "Días festivos oficiales mexicanos con cálculos automáticos",
   "main": "dist/index.js",
