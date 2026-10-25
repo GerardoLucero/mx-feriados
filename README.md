@@ -2,12 +2,10 @@
 
 Librería completa para el manejo de días festivos oficiales mexicanos con cálculo automático de fechas móviles y días hábiles.
 
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/gerardolucero)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/lucerorios0)
-[![GitHub Stars](https://img.shields.io/github/stars/GerardoLucero/mx-feriados?style=social)](https://github.com/GerardoLucero/mx-feriados)
 [![npm version](https://badge.fury.io/js/mx-feriados.svg)](https://badge.fury.io/js/mx-feriados)
 [![npm downloads](https://img.shields.io/npm/dm/mx-feriados.svg)](https://www.npmjs.com/package/mx-feriados)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![CI](https://github.com/GerardoLucero/mx-feriados/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/GerardoLucero/mx-feriados/actions/workflows/ci-cd.yml)
 
 ## Features
 
@@ -187,6 +185,13 @@ npm run lint
 4. Push a la rama
 5. Abre un Pull Request
 
+## Apoyo
+
+Proyecto de código abierto mantenido en mi tiempo libre. Si te fue útil y quieres agradecerlo:
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/gerardolucero)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/lucerorios0)
+
 ## Licencia
 
-MIT © [Gerardo Lucero](https://github.com/GerardoLucero)
+MIT © [Gerardo Lucero](https://github.com/GerardoLucero), ver [LICENSE](LICENSE).
