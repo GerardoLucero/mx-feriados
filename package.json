@@ -1,6 +1,6 @@
 {
   "name": "mx-feriados",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "type": "module",
   "description": "Días festivos oficiales mexicanos con cálculos automáticos",
   "main": "dist/index.js",
@@ -50,7 +50,7 @@
     "microbundle": "^0.15.1"
   },
   "dependencies": {
-    "dayjs": "^1.11.10"
+    "dayjs": "^1.11.23"
   },
   "jest": {
     "testEnvironment": "node",
